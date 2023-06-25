@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/loaidev64](https://github.com/loaidev64)
 
-- 📝 I regularly write articles on [https://twitter.com/LoaiDev](https://twitter.com/LoaiDev)
-
 - 💬 Ask me about **Flutter, Laravel**
 
 - 📫 How to reach me **loaidev64@gmail.com**
