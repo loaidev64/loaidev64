@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/loaidev" target="blank"><img src="https://img.shields.io/twitter/follow/loaidev?logo=twitter&style=for-the-badge" alt="loaidev" /></a> </p>
 
-- 🔭 I’m currently working on [laravel_commands](https://github.com/loaidev64/laravel-commands)
+- 🔭 I’m currently working on [STEP-CC](https://github.com/loaidev64/STEP-CC)
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
-- 👯 I’m looking to collaborate on [mopo](https://github.com/loljoda/mopo_laravel)
+- 👯 I’m looking to collaborate on [sarey](https://github.com/sarey)](https://github.com/Sarey-project/laravel)
 
 - 👨‍💻 All of my projects are available at [https://github.com/loaidev64](https://github.com/loaidev64)
 
