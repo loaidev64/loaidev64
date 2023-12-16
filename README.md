@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Laravel**
 
-- 👯 I’m looking to collaborate on [sarey](https://github.com/sarey)](https://github.com/Sarey-project/laravel)
+- 👯 I’m looking to collaborate on [sarey](https://github.com/Sarey-project/laravel)
 
 - 👨‍💻 All of my projects are available at [https://github.com/loaidev64](https://github.com/loaidev64)
 
