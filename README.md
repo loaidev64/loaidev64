@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **loaidev64@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/loaidev64/loaidev64.github.io](https://github.com/loaidev64/loaidev64.github.io)
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
